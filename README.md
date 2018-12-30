@@ -1,0 +1,1 @@
+# MR_Azure_RecognizeText
